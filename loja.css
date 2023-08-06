@@ -1,0 +1,58 @@
+body{
+	background: #6B8E23;
+}
+
+h1{
+	text-align: center;
+}
+
+header{
+	background: #BBBBBB;
+	padding: 20px 0;
+}
+
+.kit{
+	position: relative;
+	width: 940px;
+	margin: 0 auto;
+	font-size: 18px;
+}
+
+.exemplos{
+	background: #BBBBBB;
+}
+
+.produtos li{
+	display: inline-block;
+	text-align: center;
+
+	width: 30%;
+	vertical-align: top;
+	margin: 0 1.5%
+	padding: 20px 30px;
+	border:2px solid #FF0000;
+	border-radius: 10px;
+	border-style: dotted;
+}
+
+#banner{
+		width: 100%
+}
+
+.valor{
+	background: #BBBBBB;
+	text-align: center;
+	font-size: 20px;
+}
+
+.produtos li:hover h2{
+		text-transform: uppercase;
+		font-size: 40px;
+		border-color: #8B4513;
+	}
+
+.ajuda{
+	background: #BBBBBB;
+	text-align: center;
+	font-size: 18px;
+}
